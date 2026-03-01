@@ -1,0 +1,2 @@
+# SpotSpam
+Spam Detection
